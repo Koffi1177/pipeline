@@ -18,7 +18,7 @@ on:
     branches:
     - main
 
-# this pipeline consists of a two jobs named ci_pipeline
+# this pipeline consists of a two jobs named ci_pipeline.
 
 jobs:
 
